@@ -47,7 +47,7 @@ const GuidePage: React.FC = () => {
         }}>
           ホームへ戻る
         </Link>
-      </div}
+      </div>
     </div>
   );
 };
